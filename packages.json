@@ -1,0 +1,15 @@
+{
+  "packages": {
+    "origital/rest": {
+      "master": {
+        "name": "origital/rest",
+        "version": "0.0.0",
+        "source": {
+          "url": "github.com/origital/rest",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  }
+}
